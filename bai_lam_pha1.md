@@ -2,7 +2,7 @@
 
 - **Họ tên:** Võ Thị Thanh Thùy
 - **Lớp:** HCM_KS26_CNTT2
-- **Link repository Pha1:** https://github.com/thanhthuy2008/HCM-KS26-CNTT2_PromptAI_H02
+- **Link repository Pha1:** https://github.com/thanhthuy2008/HCM-KS26-CNTT2_PromptAI_H02/edit/main/bai_lam_pha1.md
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
